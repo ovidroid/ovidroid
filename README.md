@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Android Development
 - 🌱 I’m currently learning ...Kotlin
 - 💞️ I’m looking to collaborate on ... Android Apps Development
-- 📫 How to reach me ... @sayyedo963@gmail.com
+- 📫 How to reach me ... @owaissplunk@gmail.com
 
 <!---
 ovidroid/ovidroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
